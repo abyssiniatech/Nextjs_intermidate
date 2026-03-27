@@ -10,7 +10,7 @@ export const links = [
   { name: 'Contact', href: '/contact' },
   { name: 'form', href: '/form' },
   { name: 'Counter', href: '/counter' },
-  { name: 'user', href: '/user' },
+  { name: 'Hooks', href: '/hooks' },
 ];
 
 const Linkpage = () => {
