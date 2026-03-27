@@ -9,6 +9,8 @@ export const links = [
   { name: 'Product', href: '/product' },
   { name: 'Contact', href: '/contact' },
   { name: 'form', href: '/form' },
+  { name: 'Counter', href: '/counter' },
+  { name: 'Hooks', href: '/hooks' },
 ];
 
 const Linkpage = () => {
