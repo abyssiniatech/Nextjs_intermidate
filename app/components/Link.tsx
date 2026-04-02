@@ -11,6 +11,7 @@ export const links = [
   { name: 'form', href: '/form' },
   { name: 'Counter', href: '/counter' },
   { name: 'Hooks', href: '/hooks' },
+  { name: 'project', href: '/project' },
 ];
 
 const Linkpage = () => {
