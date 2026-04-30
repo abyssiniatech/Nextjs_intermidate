@@ -13,7 +13,8 @@ export const links = [
   { name: 'Hooks', href: '/hooks' },
   { name: 'project', href: '/project' },
   { name: 'Lab', href: '/lab' },
-  {name: 'surafel', href: '/surafel' },
+  { name: 'surafel', href: '/surafel' },
+  { name: 'Card', href: '/card' },
 ];
 
 const Linkpage = () => {
