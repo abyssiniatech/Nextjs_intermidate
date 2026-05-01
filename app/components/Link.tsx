@@ -15,6 +15,7 @@ export const links = [
   { name: 'Lab', href: '/lab' },
   { name: 'surafel', href: '/surafel' },
   { name: 'Card', href: '/card' },
+  {name: 'intermidate', href: '/intermidate' }
 ];
 
 const Linkpage = () => {
