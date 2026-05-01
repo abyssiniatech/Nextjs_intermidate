@@ -1,5 +1,5 @@
 import React from 'react'
-// params slug
+
 const page = async ({params}: {params: Promise<{slug: string} >}) => {
   const { slug } = await params;
   return (
